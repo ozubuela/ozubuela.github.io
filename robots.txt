@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozubuela.github.io/EWe/sitemap_index.txt
+Sitemap: https://ozubuela.github.io/NDx/sitemap_index.txt
+Sitemap: https://ozubuela.github.io/VgS/sitemap_index.txt
+Sitemap: https://ozubuela.github.io/pgf/sitemap_index.txt
